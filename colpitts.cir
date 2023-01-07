@@ -1,0 +1,14 @@
+.title KiCad schematic
+.include "Q.mod"
+R3 Net-_C1-Pad2_ GND 4.7k
+V1 Net-_L1-Pad1_ GND dc 3
+C2 Net-_C1-Pad2_ GND 10u
+R1 Net-_L1-Pad1_ Net-_C3-Pad1_ 4.7k
+C1 Net-_C1-Pad1_ Net-_C1-Pad2_ 1u
+Q1 Net-_C1-Pad2_ Net-_C3-Pad1_ Net-_C1-Pad1_ QMOD
+R4 Net-_C4-Pad1_ GND 100k
+C4 Net-_C4-Pad1_ Net-_C1-Pad1_ 100n
+L1 Net-_L1-Pad1_ Net-_C1-Pad1_ 500u
+R2 Net-_C3-Pad1_ GND 10k
+C3 Net-_C3-Pad1_ GND 10u
+.end
