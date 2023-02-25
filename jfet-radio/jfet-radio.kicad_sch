@@ -421,7 +421,7 @@
     (property "Spice_Primitive" "V" (id 5) (at 105.41 85.09 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Spice_Model" "dc 0" (id 6) (at 105.5997 80.01 90))
+    (property "Spice_Model" "ac 1v 1k" (id 6) (at 105.5997 80.01 90))
     (pin "1" (uuid b0045cf4-cc71-48ff-8e5d-9946cefc2582))
     (pin "2" (uuid 1a681456-ba83-407d-9702-1e8729246805))
   )
