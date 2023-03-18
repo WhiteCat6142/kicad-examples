@@ -1,0 +1,45 @@
+http://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3ECsAWWlECYBsWDsHI90AOERUxMyMgUwFowwAoANxAE4sQNEvPwwGKOBDJqQodRiImAcw5cefLgGZIyYZCYB3cOwmRSYfd15QmAQz1DjQlSq62O4Sg0ph48ECujtiWRmJESHZkfVx2XFVffwwxRgwMYmIHSPBPLV1kMEcTbMV8cwAna1MufO5C8XgmEv4lUobqDzgdBQEbEwTzXSduvqjzAHlRHNLkYmaTKSYAF28sI0GKsEHmkDoMaGzIDD8ElXYPFVIYLBUwFWRzxCO1XnZ3OBAAExoAMwsAVwAbWaYXgslqoHI1Xh9vn8AUDuIZvKCMIUhG9Pr9-iUHMD4Y5BMJ7K0MaCnJjYad4a02PYCnYibipKJmpR6dI2lTKkJ6mZMqNHFhqGzutyKokNGzEZI5jCCKRhXD1gwwNtkMhELxksZcMQ9lBoIhLhF-NdgpAPIj0tQUZD-gB7YSCMliPxkHWeSJYXg8YSSbxMW3scBJYQ7RRSNBwN0e9zgJhAA
+単電源 準コン
+
+http://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3EwE5oA4BsB2ALAJkwMzZgCsY2SqBIJqNNkNApgLRhgBQAbiEuiLhL8+4MLijgQ2RuMZzoJDgHNe-QcP4FI2CZA4B3cEnG5IdZCaFQOAQyPiLIAgX6Ok4EiDaew8eF7BoAiQxEmcSTAwkTBJcCDYgkNxUaQJMQUFfVz89Q2JXYykCE3TrACd7AStsYoFSxl84DgqRdUq2hvgDVVEHQvZZbscByrBMfj0AeSkwAvFsVAbCuQ4AFyd0c3GZ122GgJgwDFQj9CySSEwkahhIJCFUE8gLx8x2HzgQABMmADMbACuABtVhwvhstpoXO1wAA5CJiMFOaGOFx0UzouEI3DNCHgbbOVxiCSNJoVNECMzItT1cB+br5cDoRiE3rWPKzAS4HSs-CDCqMxzYdA6PkkroAJWpbNZi10UkYmAU8pgiilvNKrIIsXl0i8Ss8cigCmUUhFdXm5q0OhW6wpGJ2lLojDYUlgqFiWnQJDwkDGXhg6GKuHQIa0z1QVzOdMYP3+wNBAHsSckJNJKAJlbd4NFvaHDQIJAQOMn3GJnTNIPxDbAc+MhIJJJwgA
+両電源 コンプリ
+
+音質の良いオペアンプはありますか？ | FAQ | 日清紡マイクロデバイス
+https://www.nisshinbo-microdevices.co.jp/ja/faq/10013.html
+
+オペアンプを替えるとオーバードライブの音はどう変わるのか？
+https://www.digimart.net/magazine/article/2017110102849.html
+
+安くてもいいやつはある
+NJM2114、NJM2068、NJM4580、NJM5532、NJM5534
+
+ここで驚いたのは、ソケットを付けただけで元に比べて音が悪くなったことです！　本当に！　もし「お気に入りのペダルのオペアンプを交換しやすいよう、ソケットを付けて、気分でオペアンプを換えている」という人がいたら、即刻やめて最も気に入っているオペアンプをはんだで固定しましょう！
+
+MOS-FET準コンプリ出力段の対称性 - オーディオアンプとシミュレーション
+https://www.audio-simulation.net/entry/2019/03/10/221524
+
+準コンプリメンタリー出力段 - オーディオアンプとシミュレーション
+https://www.audio-simulation.net/entry/2019/02/24/074947
+
+ダージリントンみたいにする
+
+2SC2240GRの雑音特性
+http://tech-blog.sblo.jp/article/180076833.html
+
+2SC2240GRの雑音特性（再）
+http://tech-blog.sblo.jp/article/180081088.html
+
+
+
+ひずみの小さい電流ブースタ・アンプはどっち？ | CQ出版社 オンライン・サポート・サイト CQ connect
+https://cc.cqpub.co.jp/system/contents/1345/
+
+オペアンプの負帰還は出力段の後ろにする
+かつダイオードでバイアスをかける
+
+【修正版】オペアンプ使用オーディオアンプを作ってみた
+https://www.nicovideo.jp/watch/sm19078252
+
+A級パワーアンプの出力電圧と消費電力の波形はどれ？
+https://cc.cqpub.co.jp/system/contents/1551/
+A級パワーアンプです
